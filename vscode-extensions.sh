@@ -8,6 +8,7 @@ code --install-extension DavidAnson.vscode-markdownlint
 code --install-extension donjayamanne.githistory
 code --install-extension dracula-theme.theme-dracula
 code --install-extension eamodio.gitlens
+code --install-extension eg2.vscode-npm-script
 code --install-extension Equinusocio.vsc-community-material-theme
 code --install-extension Equinusocio.vsc-material-theme
 code --install-extension equinusocio.vsc-material-theme-icons
