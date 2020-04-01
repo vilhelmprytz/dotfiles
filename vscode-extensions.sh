@@ -2,6 +2,7 @@
 code --install-extension ahmadawais.shades-of-purple
 code --install-extension austin.code-gnu-global
 code --install-extension batisteo.vscode-django
+code --install-extension danielpinto8zz6.c-cpp-compile-run
 code --install-extension Dart-Code.dart-code
 code --install-extension Dart-Code.flutter
 code --install-extension DavidAnson.vscode-markdownlint
