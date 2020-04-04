@@ -13,6 +13,7 @@ code --install-extension Equinusocio.vsc-community-material-theme
 code --install-extension Equinusocio.vsc-material-theme
 code --install-extension equinusocio.vsc-material-theme-icons
 code --install-extension esbenp.prettier-vscode
+code --install-extension felipecaputo.git-project-manager
 code --install-extension icrawl.discord-vscode
 code --install-extension James-Yu.latex-workshop
 code --install-extension johnpapa.winteriscoming
