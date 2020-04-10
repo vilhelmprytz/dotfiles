@@ -20,6 +20,7 @@ code --install-extension James-Yu.latex-workshop
 code --install-extension johnpapa.winteriscoming
 code --install-extension keyring.Lua
 code --install-extension lextudio.restructuredtext
+code --install-extension liviuschera.noctis
 code --install-extension ms-azuretools.vscode-docker
 code --install-extension ms-python.python
 code --install-extension ms-vscode.cpptools
