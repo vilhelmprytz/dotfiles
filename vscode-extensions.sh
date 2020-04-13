@@ -24,6 +24,7 @@ code --install-extension liviuschera.noctis
 code --install-extension ms-azuretools.vscode-docker
 code --install-extension ms-python.python
 code --install-extension ms-vscode.cpptools
+code --install-extension ms-vscode.Go
 code --install-extension ms-vsliveshare.vsliveshare
 code --install-extension msjsdiag.vscode-react-native
 code --install-extension pixelbyte-studios.pixelbyte-love2d
