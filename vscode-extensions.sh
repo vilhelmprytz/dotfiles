@@ -15,9 +15,11 @@ code --install-extension Equinusocio.vsc-material-theme
 code --install-extension equinusocio.vsc-material-theme-icons
 code --install-extension esbenp.prettier-vscode
 code --install-extension felipecaputo.git-project-manager
+code --install-extension formulahendry.code-runner
 code --install-extension icrawl.discord-vscode
 code --install-extension James-Yu.latex-workshop
 code --install-extension johnpapa.winteriscoming
+code --install-extension julialang.language-julia
 code --install-extension keyring.Lua
 code --install-extension lextudio.restructuredtext
 code --install-extension liviuschera.noctis
