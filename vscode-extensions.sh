@@ -31,6 +31,7 @@ code --install-extension ms-vsliveshare.vsliveshare
 code --install-extension msjsdiag.vscode-react-native
 code --install-extension pixelbyte-studios.pixelbyte-love2d
 code --install-extension redhat.java
+code --install-extension ritwickdey.LiveServer
 code --install-extension shyykoserhiy.vscode-spotify
 code --install-extension teabyii.ayu
 code --install-extension VisualStudioExptTeam.vscodeintellicode
