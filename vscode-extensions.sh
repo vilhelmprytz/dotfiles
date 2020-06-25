@@ -16,6 +16,7 @@ code --install-extension equinusocio.vsc-material-theme-icons
 code --install-extension esbenp.prettier-vscode
 code --install-extension felipecaputo.git-project-manager
 code --install-extension formulahendry.code-runner
+code --install-extension golang.Go
 code --install-extension icrawl.discord-vscode
 code --install-extension James-Yu.latex-workshop
 code --install-extension johnpapa.winteriscoming
@@ -26,7 +27,6 @@ code --install-extension liviuschera.noctis
 code --install-extension ms-azuretools.vscode-docker
 code --install-extension ms-python.python
 code --install-extension ms-vscode.cpptools
-code --install-extension ms-vscode.Go
 code --install-extension ms-vsliveshare.vsliveshare
 code --install-extension msjsdiag.vscode-react-native
 code --install-extension pixelbyte-studios.pixelbyte-love2d
