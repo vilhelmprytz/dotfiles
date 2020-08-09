@@ -26,6 +26,7 @@ code --install-extension julialang.language-julia
 code --install-extension keyring.Lua
 code --install-extension lextudio.restructuredtext
 code --install-extension liviuschera.noctis
+code --install-extension mads-hartmann.bash-ide-vscode
 code --install-extension ms-azuretools.vscode-docker
 code --install-extension ms-python.python
 code --install-extension ms-vscode.cpptools
@@ -37,6 +38,7 @@ code --install-extension redhat.java
 code --install-extension ritwickdey.LiveServer
 code --install-extension shyykoserhiy.vscode-spotify
 code --install-extension teabyii.ayu
+code --install-extension timonwong.shellcheck
 code --install-extension VisualStudioExptTeam.vscodeintellicode
 code --install-extension vscjava.vscode-java-debug
 code --install-extension vscjava.vscode-java-dependency
