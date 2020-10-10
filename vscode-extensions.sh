@@ -29,11 +29,13 @@ code --install-extension liviuschera.noctis
 code --install-extension mads-hartmann.bash-ide-vscode
 code --install-extension ms-azuretools.vscode-docker
 code --install-extension ms-python.python
+code --install-extension ms-python.vscode-pylance
 code --install-extension ms-vscode.cpptools
 code --install-extension ms-vsliveshare.vsliveshare
 code --install-extension msjsdiag.vscode-react-native
 code --install-extension oguhpereira.spotify-color-theme
 code --install-extension pixelbyte-studios.pixelbyte-love2d
+code --install-extension platformio.platformio-ide
 code --install-extension redhat.java
 code --install-extension ritwickdey.LiveServer
 code --install-extension shyykoserhiy.vscode-spotify
