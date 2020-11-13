@@ -17,6 +17,7 @@ code --install-extension esbenp.prettier-vscode
 code --install-extension felipecaputo.git-project-manager
 code --install-extension formulahendry.code-runner
 code --install-extension GitHub.vscode-codeql
+code --install-extension GitHub.vscode-pull-request-github
 code --install-extension golang.go
 code --install-extension hbenl.vscode-test-explorer
 code --install-extension icrawl.discord-vscode
@@ -27,9 +28,11 @@ code --install-extension keyring.Lua
 code --install-extension lextudio.restructuredtext
 code --install-extension liviuschera.noctis
 code --install-extension mads-hartmann.bash-ide-vscode
+code --install-extension mhutchie.git-graph
 code --install-extension ms-azuretools.vscode-docker
 code --install-extension ms-python.python
 code --install-extension ms-python.vscode-pylance
+code --install-extension ms-toolsai.jupyter
 code --install-extension ms-vscode-remote.remote-containers
 code --install-extension ms-vscode.cpptools
 code --install-extension ms-vsliveshare.vsliveshare
@@ -51,5 +54,6 @@ code --install-extension vscjava.vscode-maven
 code --install-extension vscode-icons-team.vscode-icons
 code --install-extension vscoss.vscode-ansible
 code --install-extension waderyan.gitblame
+code --install-extension wesbos.theme-cobalt2
 code --install-extension yzhang.markdown-all-in-one
 code --install-extension zhuangtongfa.material-theme
