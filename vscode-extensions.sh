@@ -16,11 +16,11 @@ code --install-extension equinusocio.vsc-material-theme-icons
 code --install-extension esbenp.prettier-vscode
 code --install-extension felipecaputo.git-project-manager
 code --install-extension formulahendry.code-runner
+code --install-extension foxundermoon.shell-format
 code --install-extension GitHub.vscode-codeql
 code --install-extension GitHub.vscode-pull-request-github
 code --install-extension golang.go
 code --install-extension hbenl.vscode-test-explorer
-code --install-extension icrawl.discord-vscode
 code --install-extension James-Yu.latex-workshop
 code --install-extension johnpapa.winteriscoming
 code --install-extension julialang.language-julia
@@ -35,8 +35,11 @@ code --install-extension ms-python.vscode-pylance
 code --install-extension ms-toolsai.jupyter
 code --install-extension ms-vscode-remote.remote-containers
 code --install-extension ms-vscode.cpptools
+code --install-extension ms-vscode.test-adapter-converter
 code --install-extension ms-vsliveshare.vsliveshare
+code --install-extension ms-vsliveshare.vsliveshare-audio
 code --install-extension msjsdiag.vscode-react-native
+code --install-extension octref.vetur
 code --install-extension oguhpereira.spotify-color-theme
 code --install-extension pixelbyte-studios.pixelbyte-love2d
 code --install-extension platformio.platformio-ide
